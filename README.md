@@ -1,2 +1,5 @@
 # Blog-App
-A blog app using REST API calls; integrated backend (MongoDB); styled with Semantic-UI
+
+- Included REST API Calls
+- Backend: Node.js, Express, MongoDB
+- Frontend: HTML/CSS; Semantic-UI
